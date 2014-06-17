@@ -1,4 +1,4 @@
 JEE_Persistence
 ===============
 
-Persistence MVC Exemple with Factory
+Persistence MVC Example with Factory
